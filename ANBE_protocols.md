@@ -75,10 +75,12 @@ This protocol outlines how I have isolated RNA with little short cuts that speed
 * I use the qiagen rneazy micro kit: https://www.qiagen.com/us/shop/sample-technologies/rna/rna-preparation/rneasy-micro-kit#orderinginformation    
 * Depending on how accurate you want to quantify gene expression and budget, DNAse I treatment gets rid of potential DNA that can get picked up in a qPCR experiment. It comes with the Rneazy micro kit.      https://www.qiagen.com/us/shop/lab-basics/enzymes/rnase-free-dnase-set#orderinginformation    
 * RNases are everywhere and can rapidly degrade RNA. We use BME to inhibit RNase activity. We add 10 uL of BME per 1 mL of RLT buffer (buffer we homogenize in ) http://www.sigmaaldrich.com/catalog/product/sigma/m7154?lang=en&region=US  
-* Homogenizing tubes ( 2mL )   
-* Grinding beads:   
+* 2mL Homogenizing tubes (Sarstedt, Germany? )  :  https://www.sarstedt.com/en/products/laboratory/screw-cap-micro-tubes-reaction-tubes/screw-cap-micro-tubes/product/72608/   
+* Bullet Blender (NExt Advance)  http://www.nextadvance.com/product/bullet-blender-standard/
+* 1.4 mm Zirconium silicate grinding beads (Quackenbush co., inc.) : http://www.quackco.com/qbzirc.htm
+* Eppendorf repeater pro: http://www.pipettesupplies.com/store/parts/repeater-pro-eppendorf/   
 * DONT touch the inside of the tubes    
-* sterilize working bench with ethanol and bleach; lay down diapers.   
+* sterilize working bench with ethanol and bleach; lay down diapers. Use RNase AWAY: https://www.thermofisher.com/order/catalog/product/10328011      
 
 
 **Steps for RNA isolation:**     
