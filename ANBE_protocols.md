@@ -180,7 +180,7 @@ These steps include samples + a negative control and -multiscribe control.
  
 <div id='id-section5'/>
 ##Quantitative real time PCR
- * Kit we use: https://www.thermofisher.com/order/catalog/product/4367659      
+ * Power Sybr green kit (ThermoFisher USA) : https://www.thermofisher.com/order/catalog/product/4367659      
  * Thermocycler: ABI steponeplus; https://www.thermofisher.com/order/catalog/product/4376600     
  * 96 well plates: https://www.thermofisher.com/order/catalog/product/4346907    
 
@@ -206,8 +206,8 @@ Notes:
 3) Load master mix into plate (6 uL)    
 4) Load cDNA ( 4uL)    
 5) place in ABI steponeplus for following rxn:     
- * qpcr steps
-  1. 95 C, 10 minutes
+ * qpcr steps   
+  1. 95 C, 10 minutes     
   2. 40 cycles of: 95 C for 15s, 60 C for 60 seconds and fluorescence acquisition,      
   
  * Melt curve analysis    
