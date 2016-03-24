@@ -101,7 +101,7 @@ This protocol outlines how I have isolated RNA with little short cuts that speed
  * Take out rneazy spin columns out of package and keep them refrigerated, label them      
  * Prepare DNase I by adding 10uL DNase and 70uL RDD buffer together. Make master mix so you can add to all of your samples.    *DNase I is sensitive to mechanical forces and can denature!! Be careful in how you pipete        
  
-3) Get liquid nitrogen and place samples(ants in 1.5mL tubes) into liquid nitrogen
+3) Get liquid nitrogen and place samples(ants in 1.5mL tubes) into liquid nitrogen     
 4) Quickly transfer tubes with ants from liquid nitrogen into homogenizing tubes (it has 350 uL of RLT buffer with BME and RNA carrier) and use bullet blender under highest settings for 1-3 minutes
  * Pogonomyrmex barbatus usually takes 3 minutes and double the amount of grinding beads (2 scoops)
  * Aphaenogaster usually takes 1 minute
