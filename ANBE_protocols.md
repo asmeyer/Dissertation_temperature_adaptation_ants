@@ -203,12 +203,11 @@ Notes:
 
 3) Load master mix into plate (6 uL)    
 4) Load cDNA ( 4uL)    
-5) place in steponeplus for following rxn:     
+5) place in ABI steponeplus for following rxn:     
  * qpcr steps
   1. 95 C, 10 minutes
-
-  2. 95 C
-  3. 
-  4. 
+  2. 40 cycles of: 95 C for 15s, 60 C for 60 seconds and fluorescence acquisition, 
+  
  *Melt curve analysis
-
+  1. Reactions were heated to 95C 15 s    
+  2. From 60 C, slowly heat up and measure fluoresence 
