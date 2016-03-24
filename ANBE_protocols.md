@@ -114,8 +114,8 @@ This protocol outlines how I have isolated RNA with little short cuts that speed
 7) Transfer supernatant into 1.5mL tube with 70% ethanol; mix; with same pipette, add ~700 uL into spin column (pink)      
 8) Discard flowthrough; Spin 30 seconds, highest rpms       
 9) Wash step: add 350 uL RW1 buffer and spin 30s highest rpms             
-10) Add 80 uL DNAse 1; incubate 30 minutes at room temperature
-11) Wash step: add 350 uL RW1 buffer and spin 30s highest rpms; discard flow through tube and put column in a new one         
+10) Add 80 uL DNAse 1; incubate 30 minutes at room temperature     
+11) Wash step: add 350 uL RW1 buffer and spin 30s highest rpms; discard flow through tube and put column in a new one       
 12) Wash step: add 500 uL RPE(previously added with 44mL 100% ethanol) buffer and spin 30s highest rpms
 13) Wash step: add 500 uL 80% ethanol buffer and spin 30s highest rpms; put in new flow through tube   
 14) Drying step: spin 5 minutes highest rpms    
