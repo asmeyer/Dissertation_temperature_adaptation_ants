@@ -206,8 +206,8 @@ Notes:
 5) place in ABI steponeplus for following rxn:     
  * qpcr steps
   1. 95 C, 10 minutes
-  2. 40 cycles of: 95 C for 15s, 60 C for 60 seconds and fluorescence acquisition, 
+  2. 40 cycles of: 95 C for 15s, 60 C for 60 seconds and fluorescence acquisition,      
   
- *Melt curve analysis
+ *Melt curve analysis    
   1. Reactions were heated to 95C 15 s    
-  2. From 60 C, slowly heat up and measure fluoresence 
+  2. From 60 C, slowly heat up and measure fluoresence      
