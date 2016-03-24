@@ -96,14 +96,11 @@ This protocol outlines how I have isolated RNA with little short cuts that speed
    * Add 350 uL RLT with BME and RNA carrier ( add concentrations here)        
 
 
-
 2)  More set up
  * Make fresh 70% and 80% ethanol. I usually do this in a 15mL conical. Add 350 uL 70% ethanol into one of your 1.5 mL eppendorf tubes      
  * Take out rneazy spin columns out of package and keep them refrigerated, label them      
  * Prepare DNase I by adding 10uL DNase and 70uL RDD buffer together. Make master mix so you can add to all of your samples.    *DNase I is sensitive to mechanical forces and can denature!! Be careful in how you pipete        
-  
  
-
 3) Get liquid nitrogen and place samples(ants in 1.5mL tubes) into liquid nitrogen
 4) Quickly transfer tubes with ants from liquid nitrogen into homogenizing tubes (it has 350 uL of RLT buffer with BME and RNA carrier) and use bullet blender under highest settings for 1-3 minutes
  * Pogonomyrmex barbatus usually takes 3 minutes and double the amount of grinding beads (2 scoops)
