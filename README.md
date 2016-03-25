@@ -8,9 +8,9 @@ Last date modified: 20160324
 ------
 
 # Table of contents
-A. [Sharing my dissertation](#id-section1)
-B. [Dissertation Questions](#id-section2)
-C. [Repository Layout](#id-section3)
+1. [Sharing my dissertation](#id-section1)
+2. [Dissertation Questions](#id-section2)
+3. [Repository Layout](#id-section3)
 
  
 
