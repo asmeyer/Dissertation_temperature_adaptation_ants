@@ -7,10 +7,10 @@ Last date modified: 20160324
 
 ------
 
-# Table of content
-- [Sharing my dissertation](#id-section1)
-- [Dissertation Questions](#id-section2)
-- [Repository Layout](#id-section3)
+# Table of contents
+A. [Sharing my dissertation](#id-section1)
+B. [Dissertation Questions](#id-section2)
+C. [Repository Layout](#id-section3)
 
  
 
