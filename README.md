@@ -24,14 +24,14 @@ Basically, anybody should be able to download any one of my projects(or whole di
 ------
 
 <div id='id-section2'/>  
-##Dissertation Questions
+## Dissertation Questions/projects
 * What is the evolutionary history of critical stress proteins in ants?    
 
 * To what extent are common woodland ants locally adapted to their environment? And how does the stress response follow these patterns of adaptive variation?    
 
 * How do other stressors that accompany climate change influence the thermal physiology of these ants?    
 
-#Additional projects  
+**Additional questions/projects**   
 * Do common woodland ants at the northern range limits face thermal constraints?   
 
 * Are ants stressed under experimental warming?   
