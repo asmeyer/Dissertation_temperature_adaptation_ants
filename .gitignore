@@ -1,5 +1,6 @@
 /Dissertation_Projects/*
-!/Dissertation_Projects/2013_stressed_ants_in_warmingchambers/*
+git rm -r /Dissertation_Projects/2013_stressed_ants_in_warmingchambers/
+/Dissertation_Projects/2013_stressed_ants_in_warmingchambers/*
 /Early_PhD_thinking_work/*
 /Global_Aphaenogaster_phylogeny_Bernice/*
 /Manuscripts/*
