@@ -182,33 +182,32 @@ These steps include samples + a negative control and -multiscribe control.
  * 96 well plates: https://www.thermofisher.com/order/catalog/product/4346907      
  * 
 ### Primer list
-Gene	|	Primer 5'-3'	|	Amplicon Length (bps)
+|	Gene	|	Primer 5'-3'	|	Amplicon Length (bps)	|
 |---|---|---|
-18s rRNA (forward)	|	CTCTTTCTTGATTCGGTGGGTG	|	
-18s rRNA (reverse)	|	TTAGCAGGCTAGAGTCTCGTTC	|	100
-GAPDH (forward)	|	TAAGATTGCCGTCTTCAGCG	|	
-GAPDH (reverse)	|	ATGCCTTCTCGATGGTTGTG	|	110
-β-actin (forward)	|	TAAGATTATCGCTCCACCCG	|	
-β-actin (reverse)	|	CTCGTCGTATTCCTGCTTCG	|	112
-Ef1-β (forward)	|	GGTTCAGATGAAGAGGAAGATG	|	
-Ef1-β (reverse)	|	TCATCTCCCCAACTTTTCAC	|	111
-hsp83 (forward)	|	AGTGCTACGAGCAATTCAGC	|	
-hsp83 (reverse)	|	CGGATGCAGAAGTGTGATAACG	|	105
-hsc70-4_1 (forward)	|	CTTAATGTCTCCGCCGTGGATAAG	|	
-hsc70-4_1 (reverse)	|	CTCAGCTTCGTTTACCATCCTCTC	|	115
-hsc70-4_2 (forward)	|	GATCAAGAGGAACACGACGATACC	|	
-hsc70-4_2 (reverse)	|	GCTCTTTCTCCCTCATAGACTTGG	|	105
-Bip(forward)	|	GGTACAGTGATAGGAATTGATCTGGG	|	
-Bip(reverse)	|	TAAGAAGGCGTGATTCGGTTACC	|	112
-hsc70-5 (forward)	|	CGTTTAGTTGGTATGCCTGC	|	
-hsc70-5 (reverse)	|	CAGGATCTTCAAATCTCCGTCC	|	100
-hsp60 (forward)	|	GTTGAAGAAGGAATCGTTCCCG	|	
-hsp60 (reverse)	|	CGATCTTGATTCCAGTCTCCTG	|	109
-hsp40 (forward)	|	GATATGGATCCCTTTGGACTCG	|	
-hsp40 (reverse)	|	CCCTTTACAAGTATTCGGACTCG	|	120
-l2efl_#4 (forward)	|	TTTCCGGAGTAAGCTCGTTC	|	
-l2efl_#4 (reverse)	|	GACAGAAGTCTCGCATTCTTCC	|	117
-
+|	18s rRNA (forward)	|	CTCTTTCTTGATTCGGTGGGTG	|		|
+|	18s rRNA (reverse)	|	TTAGCAGGCTAGAGTCTCGTTC	|	100	|
+|	GAPDH (forward)	|	TAAGATTGCCGTCTTCAGCG	|		|
+|	GAPDH (reverse)	|	ATGCCTTCTCGATGGTTGTG	|	110	|
+|	β-actin (forward)	|	TAAGATTATCGCTCCACCCG	|		|
+|	β-actin (reverse)	|	CTCGTCGTATTCCTGCTTCG	|	112	|
+|	Ef1-β (forward)	|	GGTTCAGATGAAGAGGAAGATG	|		|
+|	Ef1-β (reverse)	|	TCATCTCCCCAACTTTTCAC	|	111	|
+|	hsp83 (forward)	|	AGTGCTACGAGCAATTCAGC	|		|
+|	hsp83 (reverse)	|	CGGATGCAGAAGTGTGATAACG	|	105	|
+|	hsc70-4_1 (forward)	|	CTTAATGTCTCCGCCGTGGATAAG	|		|
+|	hsc70-4_1 (reverse)	|	CTCAGCTTCGTTTACCATCCTCTC	|	115	|
+|	hsc70-4_2 (forward)	|	GATCAAGAGGAACACGACGATACC	|		|
+|	hsc70-4_2 (reverse)	|	GCTCTTTCTCCCTCATAGACTTGG	|	105	|
+|	Bip(forward)	|	GGTACAGTGATAGGAATTGATCTGGG	|		|
+|	Bip(reverse)	|	TAAGAAGGCGTGATTCGGTTACC	|	112	|
+|	hsc70-5 (forward)	|	CGTTTAGTTGGTATGCCTGC	|		|
+|	hsc70-5 (reverse)	|	CAGGATCTTCAAATCTCCGTCC	|	100	|
+|	hsp60 (forward)	|	GTTGAAGAAGGAATCGTTCCCG	|		|
+|	hsp60 (reverse)	|	CGATCTTGATTCCAGTCTCCTG	|	109	|
+|	hsp40 (forward)	|	GATATGGATCCCTTTGGACTCG	|		|
+|	hsp40 (reverse)	|	CCCTTTACAAGTATTCGGACTCG	|	120	|
+|	l2efl_#4 (forward)	|	TTTCCGGAGTAAGCTCGTTC	|		|
+|	l2efl_#4 (reverse)	|	GACAGAAGTCTCGCATTCTTCC	|	117	|
 
 **Steps:**      
 Notes: 
