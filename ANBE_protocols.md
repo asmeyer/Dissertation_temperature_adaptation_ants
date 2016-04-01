@@ -180,7 +180,9 @@ These steps include samples + a negative control and -multiscribe control.
  * Power Sybr green kit (ThermoFisher USA) : https://www.thermofisher.com/order/catalog/product/4367659      
  * Thermocycler: ABI steponeplus; https://www.thermofisher.com/order/catalog/product/4376600     
  * 96 well plates: https://www.thermofisher.com/order/catalog/product/4346907      
- * 
+
+
+
 ### Primer list
 
 
