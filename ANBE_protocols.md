@@ -1,4 +1,4 @@
-#All lab protocols pertaining to gene expression 
+#All lab protocols from temperature treating ants to quantifying gene expression 
 
 Date Initiated: 20160324   
 
@@ -135,7 +135,7 @@ Rin values: http://www.genomics.agilent.com/article.jsp?pageId=2181&_requestid=2
 
 **Steps:**  
 Notes: Everything should be done on ICE!   
-These steps include samples + a negative control and -multiscribe control.     
+These steps include samples + a negative control and -multiscribe control.    
 
 1) Set up for 20 uL rxns: For each sample, add 50ng of RNA into a pcr strip tube into a final volume of 10 uL 
 * ex:     
@@ -179,7 +179,36 @@ These steps include samples + a negative control and -multiscribe control.
 ##Quantitative real time PCR
  * Power Sybr green kit (ThermoFisher USA) : https://www.thermofisher.com/order/catalog/product/4367659      
  * Thermocycler: ABI steponeplus; https://www.thermofisher.com/order/catalog/product/4376600     
- * 96 well plates: https://www.thermofisher.com/order/catalog/product/4346907    
+ * 96 well plates: https://www.thermofisher.com/order/catalog/product/4346907      
+ * 
+### Primer list
+Gene	|	Primer 5'-3'	|	Amplicon Length (bps)
+|---|---|---|
+18s rRNA (forward)	|	CTCTTTCTTGATTCGGTGGGTG	|	
+18s rRNA (reverse)	|	TTAGCAGGCTAGAGTCTCGTTC	|	100
+GAPDH (forward)	|	TAAGATTGCCGTCTTCAGCG	|	
+GAPDH (reverse)	|	ATGCCTTCTCGATGGTTGTG	|	110
+β-actin (forward)	|	TAAGATTATCGCTCCACCCG	|	
+β-actin (reverse)	|	CTCGTCGTATTCCTGCTTCG	|	112
+Ef1-β (forward)	|	GGTTCAGATGAAGAGGAAGATG	|	
+Ef1-β (reverse)	|	TCATCTCCCCAACTTTTCAC	|	111
+hsp83 (forward)	|	AGTGCTACGAGCAATTCAGC	|	
+hsp83 (reverse)	|	CGGATGCAGAAGTGTGATAACG	|	105
+hsc70-4_1 (forward)	|	CTTAATGTCTCCGCCGTGGATAAG	|	
+hsc70-4_1 (reverse)	|	CTCAGCTTCGTTTACCATCCTCTC	|	115
+hsc70-4_2 (forward)	|	GATCAAGAGGAACACGACGATACC	|	
+hsc70-4_2 (reverse)	|	GCTCTTTCTCCCTCATAGACTTGG	|	105
+Bip(forward)	|	GGTACAGTGATAGGAATTGATCTGGG	|	
+Bip(reverse)	|	TAAGAAGGCGTGATTCGGTTACC	|	112
+hsc70-5 (forward)	|	CGTTTAGTTGGTATGCCTGC	|	
+hsc70-5 (reverse)	|	CAGGATCTTCAAATCTCCGTCC	|	100
+hsp60 (forward)	|	GTTGAAGAAGGAATCGTTCCCG	|	
+hsp60 (reverse)	|	CGATCTTGATTCCAGTCTCCTG	|	109
+hsp40 (forward)	|	GATATGGATCCCTTTGGACTCG	|	
+hsp40 (reverse)	|	CCCTTTACAAGTATTCGGACTCG	|	120
+l2efl_#4 (forward)	|	TTTCCGGAGTAAGCTCGTTC	|	
+l2efl_#4 (reverse)	|	GACAGAAGTCTCGCATTCTTCC	|	117
+
 
 **Steps:**      
 Notes: 
@@ -205,8 +234,8 @@ Notes:
 5) place in ABI steponeplus for following rxn:     
  * qpcr steps   
   1. 95 C, 10 minutes     
-  2. 40 cycles of: 95 C for 15s, 60 C for 60 seconds and fluorescence acquisition,      
+  2. 40 cycles of: 95 C for 15s, 60 C for 60 seconds and fluorescence acquisition,         
   
  * Melt curve analysis    
   1. Reactions were heated to 95C 15 s    
-  2. From 60 C, slowly heat up and measure fluoresence      
+  2. From 60 C, slowly heat up and measure fluoresence         
