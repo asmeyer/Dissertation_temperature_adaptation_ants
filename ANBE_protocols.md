@@ -182,6 +182,8 @@ These steps include samples + a negative control and -multiscribe control.
  * 96 well plates: https://www.thermofisher.com/order/catalog/product/4346907      
  * 
 ### Primer list
+
+
 |	Gene	|	Primer 5'-3'	|	Amplicon Length (bps)	|
 |---|---|---|
 |	18s rRNA (forward)	|	CTCTTTCTTGATTCGGTGGGTG	|		|
