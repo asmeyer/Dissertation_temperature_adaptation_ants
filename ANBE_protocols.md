@@ -242,3 +242,5 @@ Notes:
  * Melt curve analysis    
   1. Reactions were heated to 95C 15 s    
   2. From 60 C, slowly heat up and measure fluoresence         
+
+6) Save amplicon for sequencing
