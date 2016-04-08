@@ -25,7 +25,7 @@ Basically, anybody should be able to download any one of my projects(or whole di
 
 <div id='id-section2'/>  
 ## Dissertation Questions/projects
-1. What is the evolutionary history of critical stress proteins in ants?    
+1. What is the evolutionary history of critical stress proteins in ants? This is already [published](http://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-015-0573-0)    
 
 2. To what extent are common woodland ants locally adapted to their environment? And how does the stress response follow these patterns of adaptive variation?    
 
@@ -42,6 +42,6 @@ Basically, anybody should be able to download any one of my projects(or whole di
 ------
 
 <div id='id-section3'/>  
-##Repository folder layout 
+##Repository layout 
 
-1. This is already [published](http://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-015-0573-0) 
+Question 2 and 3 are layed out in /Dissertation_Projects/2014_xanbe-common-garden_gxp_evolution/
