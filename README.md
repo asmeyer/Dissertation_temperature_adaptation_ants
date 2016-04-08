@@ -3,7 +3,7 @@
 ### website: https://adnguyen.github.io/    
 ### email: anbe642@gmail.com   
 Date started: 20160322   
-Last date modified: 20160324    
+Last date modified: 20160408    
 
 ------
 
@@ -25,18 +25,23 @@ Basically, anybody should be able to download any one of my projects(or whole di
 
 <div id='id-section2'/>  
 ## Dissertation Questions/projects
-* What is the evolutionary history of critical stress proteins in ants?    
+1. What is the evolutionary history of critical stress proteins in ants?    
 
-* To what extent are common woodland ants locally adapted to their environment? And how does the stress response follow these patterns of adaptive variation?    
+2. To what extent are common woodland ants locally adapted to their environment? And how does the stress response follow these patterns of adaptive variation?    
 
-* How do other stressors that accompany climate change influence the thermal physiology of these ants?    
+3. How do other stressors that accompany climate change influence the thermal physiology of these ants?    
 
 **Additional questions/projects**   
+
 * Do common woodland ants at the northern range limits face thermal constraints?   
 
 * Are ants stressed under experimental warming?   
- 
+
+** These will be shared as separate repositories. ** 
+
 ------
 
 <div id='id-section3'/>  
 ##Repository folder layout 
+
+1. This is already [published](http://bmcevolbiol.biomedcentral.com/articles/10.1186/s12862-015-0573-0) 
