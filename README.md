@@ -43,5 +43,5 @@ Basically, anybody should be able to download any one of my projects(or whole di
 
 <div id='id-section3'/>  
 ##Repository layout 
-
-Question 2 and 3 are layed out in /Dissertation_Projects/2014_xanbe-common-garden_gxp_evolution/
+* The main folder has the readME, license, and the overall protocols for most of these projects.    
+* Question 2 and 3 are layed out in /Dissertation_Projects/2014_xanbe-common-garden_gxp_evolution/
