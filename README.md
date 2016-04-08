@@ -52,4 +52,4 @@ Basically, anybody should be able to download any one of my projects(or whole di
     * **Raw/** : All qpcr data
     * **sequencing/** : sequenced amplicons from qpcr reactions
   3. Results/ : Has preliminary results so far; pdf output of scripts
-  4. **Scripts_Analyses/** : I use [R](https://www.r-project.org/) and [Rstudio](https://www.rstudio.com/) and convert ([knit](http://yihui.name/knitr/)) these analyses into pdfs(see results). 
+  4. **Scripts_Analyses/** : I use [R](https://www.r-project.org/) and [Rstudio](https://www.rstudio.com/) for data analysis and data visualization and convert ([knit](http://yihui.name/knitr/)) these analyses into pdfs(see results). 
