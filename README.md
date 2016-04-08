@@ -44,7 +44,7 @@ Basically, anybody should be able to download any one of my projects(or whole di
 <div id='id-section3'/>  
 ##Repository layout 
 * The main folder has the readME, license, and the overall protocols for most of these projects.    
-* Question 2 and 3 are layed out in /Dissertation_Projects/2014_xanbe-common-garden_gxp_evolution/   
+* Question 2 and 3 are layed out in **/Dissertation_Projects/2014_xanbe-common-garden_gxp_evolution/**       
  
   1. **2016_Comparative_HSs_CTmax_geneexpression_manuscript/** : folder for manuscript
   2. **Data/** : All of the raw data generated and includes manipulated or manually parsed data. 
