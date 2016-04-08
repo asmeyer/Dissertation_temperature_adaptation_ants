@@ -44,11 +44,12 @@ Basically, anybody should be able to download any one of my projects(or whole di
 <div id='id-section3'/>  
 ##Repository layout 
 * The main folder has the readME, license, and the overall protocols for most of these projects.    
-* Question 2 and 3 are layed out in /Dissertation_Projects/2014_xanbe-common-garden_gxp_evolution/
+* Question 2 and 3 are layed out in /Dissertation_Projects/2014_xanbe-common-garden_gxp_evolution/   
+ 
   1. 2016_Comparative_HSs_CTmax_geneexpression_manuscript/ : folder for manuscript
   2. Data/ : All of the raw data generated and includes manipulated or manually parsed data. 
     * Phylogenetics/ : phylogenetic trees from raxml and beast analyses
     * Raw/ : All qpcr data
     * sequencing/ : sequenced amplicons from qpcr reactions
-  3. Results: Has preliminary results so far
-  4. 
+  3. Results/ : Has preliminary results so far; pdf output of scripts
+  4. Scripts_Analyses/ : I use [R](https://www.r-project.org/) and [Rstudio](https://www.rstudio.com/) and convert ([knit](http://yihui.name/knitr/)) these analyses into pdfs(see results). 
