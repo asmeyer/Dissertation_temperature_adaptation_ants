@@ -2,7 +2,7 @@
 
 Date Initiated: 20160324   
 
-Last date modified: 20160401    
+Last date modified: 20160412    
 
 # Table of contents
 - [Workflow](#id-section1)
@@ -183,7 +183,7 @@ These steps include samples + a negative control and -multiscribe control.
 
 
 
-### Primer list
+### Primer list ([design scheme](http://adnguyen.github.io/blog/2016/04/12/Primer_design))
 
 
 |	Gene	|	Primer 5'-3'	|	Amplicon Length (bps)	|
