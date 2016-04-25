@@ -5,11 +5,18 @@ Date Initiated: 20160324
 Last date modified: 20160412    
 
 # Table of contents
+- [Lab-acclimating ants] (#id-section0)
 - [Workflow](#id-section1)
 - [Heat shock experiments](#id-section2)
 - [RNA isolations](#id-section3)
 - [cDNA synthesis](#id-section4)
 - [quantitative real time PCR](#id-section5)
+
+
+<div id='id-section0'/>
+## Lab-acclimating ants   
+Supplies:   
+* 
 
 
 <div id='id-section1'/>
@@ -40,7 +47,12 @@ Pro slow ramp:
 * Terblanche JS, Hoffmann AA, Mitchell KA, Rako L, Roux PC le, Chown SL. 2011. Ecologically relevant measures of tolerance to potentially lethal temperatures. J Exp Biol 214:3713–3725.
 * Overgaard J, Kristensen TN, Sørensen JG. 2012. Validity of Thermal Ramping Assays Used to Assess Thermal Tolerance in Arthropods. PLoS ONE 7:e32758.
 
+### General Waterbath set up
+**Lab-acclimated arrangement**
+![](/Images/common_garden.jpg)
 
+**Submerging ants in the waterbath**
+![](/Images/heat_shocks.jpg)
 
 **Static heat shock:**    
 **Notes:**     
@@ -65,6 +77,8 @@ https://www.polyscience.com/products/circulating-baths/heated-circulators/integr
 3) Place glass tubes with ants in water bath     
 4) Start ramping protocol which incubates the tubes at 25C for 5 minutes and then slowly ramps 0.1C/min; also start timer     
 5) Measure knockdown  time (seconds)  and temperature ( degrees C); knockdown = loss of righting response, so if you flip them over, they can't get back up after 5 second     
+
+
 
 
 <div id='id-section3'/>
