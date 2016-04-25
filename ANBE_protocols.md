@@ -49,10 +49,10 @@ Pro slow ramp:
 
 ### General Waterbath set up
 **Lab-acclimated arrangement**
-![](/Images/common_garden.jpg)
+![](/Images/common_garden.jpg?raw=true)
 
 **Submerging ants in the waterbath**
-![](/Images/heat_shocks.jpg)
+![](/Images/heat_shocks.jpg?raw=true)
 
 **Static heat shock:**    
 **Notes:**     
