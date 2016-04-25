@@ -5,7 +5,7 @@ Date Initiated: 20160324
 Last date modified: 20160412    
 
 # Table of contents
-- [Lab-acclimating ants] (#id-section0)
+- [Lab-acclimating ants](#id-section0)
 - [Workflow](#id-section1)
 - [Heat shock experiments](#id-section2)
 - [RNA isolations](#id-section3)
@@ -14,9 +14,11 @@ Last date modified: 20160412
 
 
 <div id='id-section0'/>
-## Lab-acclimating ants   
-Supplies:   
-* 
+## Lab-acclimating ants  
+
+**Lab-acclimation**
+![](/Images/common_garden.jpg?raw=true)
+ 
 
 
 <div id='id-section1'/>
