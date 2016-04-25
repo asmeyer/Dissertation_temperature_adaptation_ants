@@ -17,7 +17,7 @@ Last date modified: 20160412
 ## Lab-acclimating ants  
 
 **Lab-acclimation**    
-![yo](/2014_xanbe-common-garden_gxp_evolution/Images/common_garden.jpg)
+![](https://cloud.githubusercontent.com/assets/4654474/14787126/1b5cd0a4-0ad0-11e6-8a08-d818ba53d15a.jpg)
  
 
 
