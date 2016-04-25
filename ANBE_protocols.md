@@ -17,9 +17,13 @@ Last date modified: 20160412
 ## Lab-acclimating ants  
 
 **Lab-acclimation**    
-![](https://cloud.githubusercontent.com/assets/4654474/14787126/1b5cd0a4-0ad0-11e6-8a08-d818ba53d15a.jpg)
+![](https://cloud.githubusercontent.com/assets/4654474/14787126/1b5cd0a4-0ad0-11e6-8a08-d818ba53d15a.jpg)   
  
+ **Ants are reared in tupperware (22X16cm) containers**
+ ![](https://cloud.githubusercontent.com/assets/4654474/14787149/2fcdadd8-0ad0-11e6-93ab-83a844e5fa7e.jpg)     
 
+**They like living in water plugged tubes!**    
+![](https://cloud.githubusercontent.com/assets/4654474/14787139/29c182b6-0ad0-11e6-9bc4-af75bd9ec34f.jpg)
 
 <div id='id-section1'/>
 ##Workflow
@@ -50,11 +54,11 @@ Pro slow ramp:
 * Overgaard J, Kristensen TN, Sørensen JG. 2012. Validity of Thermal Ramping Assays Used to Assess Thermal Tolerance in Arthropods. PLoS ONE 7:e32758.
 
 ### General Waterbath set up
-**Lab-acclimated arrangement**
-![](/Images/common_garden.jpg?raw=true)
+**Automated water bath**   
+![](https://cloud.githubusercontent.com/assets/4654474/14787150/31ba1280-0ad0-11e6-9693-2a4158421275.jpg)
 
 **Submerging ants in the waterbath**
-![](/Images/heat_shocks.jpg?raw=true)
+![](https://cloud.githubusercontent.com/assets/4654474/14787105/033be3de-0ad0-11e6-8fbc-4f6703209086.jpg)
 
 **Static heat shock:**    
 **Notes:**     
